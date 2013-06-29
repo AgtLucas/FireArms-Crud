@@ -1,0 +1,13 @@
+create database virus;
+
+use virus;
+
+create table Weapons(
+id int(3) AUTO_INCREMENT,
+brand varchar(50),
+model varchar(50),
+country varchar(50),
+caliber varchar(50),
+price varchar(50),
+PRIMARY KEY(id)
+);
