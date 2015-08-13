@@ -1,1 +1,5 @@
-CRUD - Firearms
+# CRUD - Firearms
+
+---
+
+License: [MIT](http://mit.lucas.ninja)
