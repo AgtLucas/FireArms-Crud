@@ -2,4 +2,4 @@
 
 ---
 
-License: [MIT](http://mit.lucas.ninja)
+License: [MIT](http://mit.lucas.ninja).
